@@ -1,0 +1,3 @@
+# Number of vertices in a polygon:
+num_points($geometry)
+
