@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/plugins/Multi_Exploding" >
+        <file>icon.png</file>
+    </qresource>
+</RCC>
