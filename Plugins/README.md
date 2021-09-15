@@ -1,1 +1,1 @@
-# QGIS PLUGINS
+# QGIS PLUGINS 🧩
