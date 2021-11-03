@@ -1,4 +1,4 @@
-# QGIS 
+# QGIS Snippets and tools
 In this repository I share:
 
 * [PyQGIS Snippets](https://github.com/PrograMapa/QGIS/tree/main/Snippets) 📝
