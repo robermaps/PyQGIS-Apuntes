@@ -1,5 +1,5 @@
 # QGIS Scripts and tools
-In this repository I share:
+Through this repository I share:
 
 * [PyQGIS Scripts](https://github.com/PrograMapa/QGIS/tree/main/Scripts) 📝
 * [Plugins & Processing tools](https://github.com/PrograMapa/QGIS/tree/main/Plugins) 🧩
