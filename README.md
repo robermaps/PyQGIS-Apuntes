@@ -1,7 +1,7 @@
-# QGIS Snippets and tools
+# QGIS Scripts and tools
 In this repository I share:
 
-* [PyQGIS Snippets](https://github.com/PrograMapa/QGIS/tree/main/Snippets) 📝
+* [PyQGIS Scripts](https://github.com/PrograMapa/QGIS/tree/main/Scripts) 📝
 * [Plugins & Processing tools](https://github.com/PrograMapa/QGIS/tree/main/Plugins) 🧩
 * [Field calculator expressions](https://github.com/PrograMapa/QGIS/blob/main/Field_calculator_expressions.sql) 🧮
 
