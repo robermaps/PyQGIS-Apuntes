@@ -2,7 +2,7 @@
 In this repository I share:
 
 * [PyQGIS Snippets](https://github.com/PrograMapa/QGIS/tree/main/Snippets) 📝
-* [Plugins](https://github.com/PrograMapa/QGIS/tree/main/Plugins) 🧩
+* [Plugins & Processing tools](https://github.com/PrograMapa/QGIS/tree/main/Plugins) 🧩
 * [Field calculator expressions](https://github.com/PrograMapa/QGIS/blob/main/Field_calculator_expressions.sql) 🧮
 
 <img src="https://programapa.files.wordpress.com/2021/04/processing_pyqgis.png" width="300" height="200" text-align: center></div>
