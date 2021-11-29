@@ -1,6 +1,6 @@
 # Apuntes de PyQGIS
 
-<img src="https://programapa.files.wordpress.com/2021/04/processing_pyqgis.png" width="300" height="200" text-align: center></div>
+<img src="https://i.imgur.com/ovupYIz.jpg" text-align: center></div>
 
 Por Rober J 
 
